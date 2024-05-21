@@ -1,9 +1,9 @@
 global:
   stackNamePrefix: sample-firewall-blog
   ssmPrefix: /sample-firewall-blog/network
-  region: us-east-1
+  region: us-west-2
   availabilityZones:
-    - us-east-1a
+    - us-west-2a
   tags:
     - aws-vpc-builder: sample-firewall-blog
 
